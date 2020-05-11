@@ -1,7 +1,7 @@
 {
   "name": "Skebot",
   "version": "0.3.0",
-  "description": "A Salesforce migration",
+  "description": "MEAN Stack app",
   "engines": {
     "node": "12.x",
     "npm": "6.x"
